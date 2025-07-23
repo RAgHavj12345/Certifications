@@ -8,6 +8,25 @@ A showcase of my professional development and technical credentials.
 
 Here are detailed breakdowns of my recent job simulation experiences.
 
+### J.P. Morgan - Quantitative Research
+
+* **Program:** Quantitative Research Job Simulation
+* **Organization:** J.P. Morgan / Forage
+* **Issued:** *June, 2025*
+* **Proof:** [View Certificate](forage-lloyds-cert.jpg)
+
+<a href="forage-lloyds-cert.jpg">
+  <img src="forage-lloyds-cert.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+</a>
+
+In this simulation, I completed the following tasks:
+
+1.  **Completed** a simulation focused on quantitative research methods 
+2.  **Analyzed** a book of loans to estimate a customer's probability of default
+3.  **Used** dynamic programming to convert FICO scores into categorical data to predict defaults
+4.  
+---
+
 ### Lloyds Banking Group - Data Science Simulation
 
 * **Program:** Data Science Job Simulation
