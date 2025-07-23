@@ -13,10 +13,10 @@ Here are detailed breakdowns of my recent job simulation experiences.
 * **Program:** Quantitative Research Job Simulation
 * **Organization:** J.P. Morgan / Forage
 * **Issued:** *June, 2025*
-* **Proof:** [View Certificate](forage-lloyds-cert.jpg)
+* **Proof:** [View Certificate](forage-jpmorgan-certi.jpg)
 
-<a href="forage-lloyds-cert.jpg">
-  <img src="forage-lloyds-cert.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+<a href="forage-jpmorgan-certi.jpg">
+  <img src="forage-jpmorgan-certi.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
 </a>
 
 In this simulation, I completed the following tasks:
