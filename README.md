@@ -148,6 +148,27 @@ This section contains detailed breakdowns of my recent job simulation experience
 
 ---
 
+### Data Flair - Introduction to Deep Learning
+* **Organization:** Data Flair
+* **Issued:** January, 2025
+* **Proof:** [View Certificate](Deep Learning.jpg)
+* **Key Skills:** Generative AI, Exploratory Data Analysis (EDA), Predictive Modeling, AI Strategy, Ethical AI
+
+<details>
+<summary>View Tasks & Accomplishments</summary>
+
+1.  **Utilized** GenAI tools for exploratory data analysis (EDA) to assess data quality and identify risk indicators.
+2.  **Proposed** a no-code predictive modeling framework to assess customer delinquency risk, using GenAI for model logic.
+3.  **Designed** an AI-driven collections strategy incorporating agentic AI, automation, and ethical AI principles.
+
+</details>
+
+<a href="forage-tga-certi.jpg">
+  <img src="forage-tga-certi.jpg" alt="Tata GenAI Powered Data Analytics Certificate" width="500">
+</a>
+
+---
+
 ### Tata - Cybersecurity Analyst
 * **Organization:** Tata / Forage
 * **Issued:** July, 2024
