@@ -22,7 +22,7 @@ This section contains detailed breakdowns of my recent job simulation experience
 ### IBM SkillsBuild - From Learner to Builder: Become an AI Agent Architect
 * **Organization:** IBM SkillsBuild
 * **Issued:** July, 2025
-* **Proof:** [View Certificate](ibm From Learner to Builder Become an AI Agent certifate.jpg)
+* **Proof:** [View Certificate](ibm%20From%20Learner%20to%20Builder%20Become%20an%20AI%20Agent%20certifate.jpg)
 <a href="ibm From Learner to Builder Become an AI Agent certifate.jpg">
   <img src="ibm From Learner to Builder Become an AI Agent certifate.jpg" alt="J.P. Morgan Quantitative Research Certificate" width="500">
 </a>
