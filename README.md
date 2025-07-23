@@ -12,6 +12,14 @@ This repository contains my professional certifications and credentials.
 [![TensorFlow Developer Certificate](google-certificate.png)]([certificate.pdf](https://github.com/RAgHavj12345/Certifications/blob/main/certificate.pdf))
 
 ---
+---
+
+### Forage - Virtual Experience Program
+*Issued: [Enter Date]*
+<br>
+*Verification: This program does not have a direct credential link.*
+
+[![Forage Certificate](forage-virtual-experience.png)](forage-virtual-experience.pdf)
 
 ### AWS - Certified Solutions Architect
 *Issued: Jul 2025*
