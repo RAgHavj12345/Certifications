@@ -39,6 +39,13 @@ In this simulation, I completed the following tasks:
   <img src="forage-bcg-cert.jpg" alt="BCG X Data Science Certificate" width="500">
 </a>
 
+In this simulation, I completed the following tasks:
+
+1.  **Completed** a customer churn analysis simulation for XYZ Analytics, demonstrating advanced data analytics skills, identifying essential client data and outlining a strategic investigation approach.
+2.  **Completed** the engineering and optimization of a random forest model, achieving an 50% recall rate in predicting customer churn.
+3.  **Conducted** efficient data analysis using Python, including Pandas and NumPy. Employed data visualization techniques for insightful trend interpretation.
+4.  **Completed** a concise executive summary for the team, delivering actionable insights for informed decision-making based on the analysis.
+ 
 ---
 
 ## 📚 All Certifications (Tabular View)
