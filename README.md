@@ -250,7 +250,7 @@ This section contains detailed breakdowns of my completed programs and credentia
 ---
 
 ### Google Developer Student Clubs - Python and Artificial Intelligence
-* **Organization:** Google Developer Student Clubs/DevTown
+* **Organization:** Google Developer Student Clubs
 * **Issued:** August, 2024
 * **Proof:** [View Certificate](Py&Ai.jpg)
 <a href="Py%26Ai.jpg">
@@ -260,7 +260,7 @@ This section contains detailed breakdowns of my completed programs and credentia
 ---
 
 ### Microsoft Learn Student Ambassador - Python and Artificial Intelligence
-* **Organization:** Microsoft Learn Student Ambassador/DevTown
+* **Organization:** Microsoft Learn Student Ambassador
 * **Issued:** August, 2024
 * **Proof:** [View Certificate](Microsoft%20Std%20Amb.jpg)
 <a href="Microsoft Std Amb.jpg">
@@ -312,9 +312,19 @@ This section contains detailed breakdowns of my completed programs and credentia
 
 ---
 
+### DevTown - Python and Artificial Intelligence
+* **Organization:** Microsoft Learn Student Ambassador/DevTown
+* **Issued:** July, 2024
+* **Proof:** [View Certificate](devpai.jpg)
+<a href="devpai.jpg">
+  <img src="devpai.jpg" alt="IBM AI Agent Architect Certificate" width="500">
+</a>
+
+---
+
 
 ### Google Developer Student Clubs - Cloud Computing and Devops A to Z
-* **Organization:** Google Developer Student Clubs/DevTown
+* **Organization:** Google Developer Student Clubs
 * **Issued:** July, 2024
 * **Proof:** [View Certificate](cloud%20comp%20google.jpg)
 
