@@ -4,27 +4,43 @@ A showcase of my professional development, hands-on project experience, and tech
 
 ---
 
-## ✨ Featured Simulations
+## ✨ Featured Certifications & Simulations
 
-This section contains detailed breakdowns of my recent job simulation experiences.
+This section contains detailed breakdowns of my completed programs and credentials, ordered from most recent to oldest.
 
 ### Table of Contents
-1.  [J.P. Morgan - Quantitative Research](#jp-morgan---quantitative-research)
-2.  [Lloyds Banking Group - Data Science](#lloyds-banking-group---data-science-simulation)
-3.  [BCG X - Data Science](#bcg-x---data-science)
-4.  [Quantium - Data Analytics](#quantium---data-analytics)
-5.  [Deloitte - Data Analytics](#deloitte---data-analytics)
-6.  [Tata - GenAI Powered Data Analytics](#tata---genai-powered-data-analytics)
-7.  [Tata - Cybersecurity Analyst](#tata---cybersecurity-analyst)
-8.  [Tata - Data Visualisation](#tata---data-visualisation)
+1.  [IBM SkillsBuild - AI Agent Architect](#ibm-skillsbuild---ai-agent-architect)
+2.  [J.P. Morgan - Quantitative Research](#jp-morgan---quantitative-research)
+3.  [Lloyds Banking Group - Data Science](#lloyds-banking-group---data-science-simulation)
+4.  [BCG X - Data Science](#bcg-x---data-science)
+5.  [Quantium - Data Analytics](#quantium---data-analytics)
+6.  [Deloitte - Data Analytics](#deloitte---data-analytics)
+7.  [Tata - GenAI Powered Data Analytics](#tata---genai-powered-data-analytics)
+8.  [Data Flair - DSA using C++](#data-flair---introduction-to-dsa-using-c)
+9.  [Data Flair - Introduction to Django](#data-flair---introduction-to-django)
+10. [Data Flair - Introduction to Deep Learning](#data-flair---introduction-to-deep-learning)
+11. [HASHTAG - CODETREK Hackathon](#hashtag---codetrek-hackathon)
+12. [Tata - Cybersecurity Analyst](#tata---cybersecurity-analyst)
+13. [Tata - Data Visualisation](#tata---data-visualisation)
+14. [Data Flair - Introduction to Python](#data-flair---introduction-to-python)
 
 ---
-### IBM SkillsBuild - From Learner to Builder: Become an AI Agent Architect
+
+### IBM SkillsBuild - AI Agent Architect
 * **Organization:** IBM SkillsBuild
 * **Issued:** July, 2025
 * **Proof:** [View Certificate](ibm%20From%20Learner%20to%20Builder%20Become%20an%20AI%20Agent%20certifate.jpg)
-<a href="ibm From Learner to Builder Become an AI Agent certifate.jpg">
-  <img src="ibm From Learner to Builder Become an AI Agent certifate.jpg" alt="J.P. Morgan Quantitative Research Certificate" width="500">
+* **Key Skills:** AI Agents, Generative AI, LLMs, System Architecture
+
+<details>
+<summary>View Details</summary>
+
+-   Completed a program on designing and building AI agents, focusing on the transition from foundational knowledge to practical application and architectural design.
+
+</details>
+
+<a href="ibm%20From%20Learner%20to%20Builder%20Become%20an%20AI%20Agent%20certifate.jpg">
+  <img src="ibm%20From%20Learner%20to%20Builder%20Become%20an%20AI%20Agent%20certifate.jpg" alt="IBM AI Agent Architect Certificate" width="500">
 </a>
 
 ---
@@ -81,10 +97,10 @@ This section contains detailed breakdowns of my recent job simulation experience
 <details>
 <summary>View Tasks & Accomplishments</summary>
 
-1.  **Engineered** and optimized a Random Forest model, achieving a **50% recall rate** in predicting customer churn, prioritizing the identification of at-risk customers.
+1.  **Engineered** and optimized a Random Forest model, achieving a **50% recall rate** in predicting customer churn.
 2.  **Conducted** in-depth data analysis and feature engineering using **Pandas** and **NumPy**.
 3.  **Developed** insightful data visualizations to interpret trends and present findings effectively.
-4.  **Authored** a concise executive summary, translating complex analytical results into actionable business recommendations.
+4.  **Authored** a concise executive summary, translating complex analytical results into actionable recommendations.
 
 </details>
 
@@ -103,9 +119,9 @@ This section contains detailed breakdowns of my recent job simulation experience
 <details>
 <summary>View Tasks & Accomplishments</summary>
 
-1.  **Analyzed** large-scale transaction datasets to prepare data and derive customer insights for commercial recommendations.
-2.  **Identified** and validated benchmark stores to measure performance and conduct uplift testing for trial store layouts.
-3.  **Synthesized** analytical findings into comprehensive reports for category managers to facilitate strategic decision-making.
+1.  **Analyzed** large-scale transaction datasets to prepare data and derive customer insights.
+2.  **Identified** and validated benchmark stores to measure performance and conduct uplift testing.
+3.  **Synthesized** analytical findings into comprehensive reports for category managers.
 
 </details>
 
@@ -125,8 +141,8 @@ This section contains detailed breakdowns of my recent job simulation experience
 <summary>View Tasks & Accomplishments</summary>
 
 1.  **Investigated** business scenarios using data analysis and forensic technology principles.
-2.  **Designed** and built an interactive data dashboard using **Tableau** to visualize key metrics and findings.
-3.  **Leveraged** advanced Excel functions for data classification and to derive actionable business conclusions.
+2.  **Designed** and built an interactive data dashboard using **Tableau** to visualize key metrics.
+3.  **Leveraged** advanced Excel functions for data classification and business conclusions.
 
 </details>
 
@@ -140,13 +156,13 @@ This section contains detailed breakdowns of my recent job simulation experience
 * **Organization:** Tata / Forage
 * **Issued:** June, 2025
 * **Proof:** [View Certificate](forage-tga-certi.jpg)
-* **Key Skills:** Generative AI, Exploratory Data Analysis (EDA), Predictive Modeling, AI Strategy, Ethical AI
+* **Key Skills:** Generative AI, EDA, Predictive Modeling, AI Strategy, Ethical AI
 
 <details>
 <summary>View Tasks & Accomplishments</summary>
 
 1.  **Utilized** GenAI tools for exploratory data analysis (EDA) to assess data quality and identify risk indicators.
-2.  **Proposed** a no-code predictive modeling framework to assess customer delinquency risk, using GenAI for model logic.
+2.  **Proposed** a no-code predictive modeling framework to assess customer delinquency risk.
 3.  **Designed** an AI-driven collections strategy incorporating agentic AI, automation, and ethical AI principles.
 
 </details>
@@ -161,8 +177,17 @@ This section contains detailed breakdowns of my recent job simulation experience
 * **Organization:** Data Flair
 * **Issued:** April, 2025
 * **Proof:** [View Certificate](Introduction-to-DSA-using-C.jpg)
+* **Key Skills:** Data Structures, Algorithms, C++, Problem Solving
+
+<details>
+<summary>View Details</summary>
+
+-   Completed a foundational course in Data Structures and Algorithms, focusing on implementation and problem-solving using C++.
+
+</details>
+
 <a href="Introduction-to-DSA-using-C.jpg">
-  <img src="Introduction-to-DSA-using-C.jpg" alt="J.P. Morgan Quantitative Research Certificate" width="500">
+  <img src="Introduction-to-DSA-using-C.jpg" alt="Data Flair DSA Certificate" width="500">
 </a>
 
 ---
@@ -171,8 +196,17 @@ This section contains detailed breakdowns of my recent job simulation experience
 * **Organization:** Data Flair
 * **Issued:** February, 2025
 * **Proof:** [View Certificate](Introduction-to-Django.jpg)
+* **Key Skills:** Django, Web Development, Python, MVC Architecture
+
+<details>
+<summary>View Details</summary>
+
+-   Gained foundational knowledge of the Django framework for building robust and scalable web applications with Python.
+
+</details>
+
 <a href="Introduction-to-Django.jpg">
-  <img src="Introduction-to-Django.jpg" alt="J.P. Morgan Quantitative Research Certificate" width="500">
+  <img src="Introduction-to-Django.jpg" alt="Data Flair Django Certificate" width="500">
 </a>
 
 ---
@@ -181,19 +215,36 @@ This section contains detailed breakdowns of my recent job simulation experience
 * **Organization:** Data Flair
 * **Issued:** January, 2025
 * **Proof:** [View Certificate](Deep%20Learning.jpg)
+* **Key Skills:** Deep Learning, Neural Networks, AI Fundamentals
 
-<a href="Deep Learning.jpg">
-  <img src="Deep Learning.jpg" alt="Tata GenAI Powered Data Analytics Certificate" width="500">
+<details>
+<summary>View Details</summary>
+
+-   Covered the fundamental concepts of Deep Learning, including neural network architecture, activation functions, and training processes.
+
+</details>
+
+<a href="Deep%20Learning.jpg">
+  <img src="Deep%20Learning.jpg" alt="Data Flair Deep Learning Certificate" width="500">
 </a>
 
 ---
 
 ### HASHTAG - CODETREK Hackathon
-* **Organization:** HASHTAG
+* **Organization:** HASHTAG Society of JEMTEC
 * **Issued:** January, 2025
 * **Proof:** [View Certificate](hashtag.jpg)
+* **Key Skills:** Competitive Programming, Team Collaboration, Problem Solving
+
+<details>
+<summary>View Details</summary>
+
+-   Participated in the Codetreck hackathon, developing solutions to complex problems within a competitive, time-constrained environment.
+
+</details>
+
 <a href="hashtag.jpg">
-  <img src="hashtag.jpg" alt="J.P. Morgan Quantitative Research Certificate" width="500">
+  <img src="hashtag.jpg" alt="HASHTAG CODETREK Hackathon Certificate" width="500">
 </a>
 
 ---
@@ -203,14 +254,14 @@ This section contains detailed breakdowns of my recent job simulation experience
 * **Organization:** Tata / Forage
 * **Issued:** July, 2024
 * **Proof:** [View Certificate](forage-tac-certi.jpg)
-* **Key Skills:** Identity & Access Management (IAM), Cybersecurity Consulting, Stakeholder Communication
+* **Key Skills:** IAM, Cybersecurity Consulting, Stakeholder Communication
 
 <details>
 <summary>View Tasks & Accomplishments</summary>
 
 1.  **Applied** core Identity and Access Management (IAM) principles within a cybersecurity consulting context.
-2.  **Aligned** technical security solutions with strategic business objectives to ensure comprehensive protection.
-3.  **Delivered** clear and comprehensive documentation and presentations to communicate complex technical concepts effectively.
+2.  **Aligned** technical security solutions with strategic business objectives.
+3.  **Delivered** comprehensive documentation to communicate complex technical concepts.
 
 </details>
 
@@ -224,7 +275,7 @@ This section contains detailed breakdowns of my recent job simulation experience
 * **Organization:** Tata / Forage
 * **Issued:** July, 2024
 * **Proof:** [View Certificate](forage-tdv-certi.jpg)
-* **Key Skills:** Data Visualization, Stakeholder Engagement, Dashboard Design, Business Intelligence
+* **Key Skills:** Data Visualization, Stakeholder Engagement, Dashboard Design
 
 <details>
 <summary>View Tasks & Accomplishments</summary>
@@ -245,8 +296,17 @@ This section contains detailed breakdowns of my recent job simulation experience
 * **Organization:** Data Flair
 * **Issued:** April, 2024
 * **Proof:** [View Certificate](Introduction-to-Python-Certificate.jpg)
+* **Key Skills:** Python, Programming Fundamentals, Data Types
+
+<details>
+<summary>View Details</summary>
+
+-   Mastered the fundamentals of Python programming, including syntax, data structures, and control flow for building applications.
+
+</details>
+
 <a href="Introduction-to-Python-Certificate.jpg">
-  <img src="Introduction-to-Python-Certificate.jpg" alt="J.P. Morgan Quantitative Research Certificate" width="500">
+  <img src="Introduction-to-Python-Certificate.jpg" alt="Data Flair Python Certificate" width="500">
 </a>
 
 ---
@@ -255,11 +315,18 @@ This section contains detailed breakdowns of my recent job simulation experience
 
 | Certificate / Simulation | Issuing Organization | Date Issued |
 | :--- | :--- | :--- |
+| **AI Agent Architect** | IBM SkillsBuild | July, 2025 |
 | **Quantitative Research** | J.P. Morgan / Forage | June, 2025 |
 | **Data Science Simulation** | Lloyds Banking Group / Forage | June, 2025 |
 | **Data Science Simulation** | BCG X / Forage | June, 2025 |
 | **Data Analytics Simulation** | Quantium / Forage | June, 2025 |
 | **Data Analytics Simulation** | Deloitte / Forage | June, 2025 |
 | **GenAI Powered Data Analytics** | Tata / Forage | June, 2025 |
+| **Introduction to DSA using C++** | Data Flair | April, 2025 |
+| **Introduction to Django** | Data Flair | February, 2025 |
+| **Introduction to Deep Learning** | Data Flair | January, 2025 |
+| **CODETREK Hackathon** | HASHTAG Society | January, 2025 |
 | **Cybersecurity Analyst** | Tata / Forage | July, 2024 |
 | **Data Visualisation** | Tata / Forage | July, 2024 |
+| **Introduction to Python** | Data Flair | April, 2024 |
+
