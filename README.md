@@ -188,6 +188,17 @@ This section contains detailed breakdowns of my recent job simulation experience
 
 ---
 
+### HASHTAG - CODETREK Hackathon
+* **Organization:** HASHTAG
+* **Issued:** January, 2025
+* **Proof:** [View Certificate](hashtag.jpg)
+<a href="hashtag.jpg">
+  <img src="hashtag.jpg" alt="J.P. Morgan Quantitative Research Certificate" width="500">
+</a>
+
+---
+
+
 ### Tata - Cybersecurity Analyst
 * **Organization:** Tata / Forage
 * **Issued:** July, 2024
