@@ -147,6 +147,26 @@ In this simulation, I completed the following tasks:
 
 ---
 
+### Tata - Data Visualisation: Empowering Business with Effective Insights
+
+* **Program:** Data Visualisation: Empowering Business with Effective Insights Simulation
+* **Organization:** Tata / Forage
+* **Issued:** *July, 2024*
+* **Proof:** [View Certificate](forage-tac-certi.jpg
+)
+
+<a href="forage-tac-certi.jpg">
+  <img src="forage-tac-certi.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+</a>
+
+In this simulation, I completed the following tasks:
+
+1.  **Completed** a simulation involving creating data visualizations for Tata Consultancy Services
+2.  **Prepared** questions for a meeting with client senior leadership
+3.  **Created** cvisuals for data analysis to help executives with effective decision making
+
+---
+
 ## 📚 All Certifications (Tabular View)
 
 | Certificate | Issuing Organization | Date Issued | Proof |
