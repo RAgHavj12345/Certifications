@@ -52,18 +52,21 @@ In this simulation, I completed the following tasks:
 * **Program:** Data Analytics Simulation
 * **Organization:** Quantium / Forage
 * **Issued:** *June, 2025*
-* **Proof:** [View Certificate](forage-lloyds-cert.jpg)
+* **Proof:** [View Certificate](forage-quantinum-cert.jpg
+)
 
-<a href="forage-lloyds-cert.jpg">
-  <img src="forage-lloyds-cert.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+<a href="forage-quantinum-cert.jpg
+">
+  <img src="forage-quantinum-cert.jpg
+" alt="Lloyds Banking Group Data Science Certificate" width="500">
 </a>
 
 In this simulation, I completed the following tasks:
 
-1.  **Completed** a job simulation involving **customer churn prediction** for the Data Science & Analytics team at Lloyds Banking Group.
-2.  **Developed** and implemented a predictive model using **Random Forest** and other machine learning algorithms, achieving an **ROC-AUC score of 0.82**.
-3.  **Conducted** advanced data preprocessing, including handling missing values, encoding categorical variables, and feature scaling, utilizing Python libraries such as **pandas**, **scikit-learn**, and **matplotlib**.
-4.  **Performed** comprehensive model evaluation and tuning, optimizing hyperparameters with **GridSearchCV**, and applied **feature importance analysis** to derive actionable business insights.
+1.  **Completed** a job simulation focused on Data Analytics and Commercial Insights for the data science team.
+2.  **Developed** expertise in data preparation and customer analytics, utilizing transaction datasets to extract valuable insights and deliver data-driven commercial recommendations.
+3.  **Extended** analytical capabilities to identify benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making.
+4.  **Leveraged** acquired data analytics and insights from previous tasks to create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
 
 ---
 
