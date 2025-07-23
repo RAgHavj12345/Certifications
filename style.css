@@ -3,9 +3,10 @@
     --card-bg-color: #1E1E1E;
     --primary-text-color: #f0f0f0;
     --secondary-text-color: #a0a0a0;
-    --accent-color: #00aaff;
+    --accent-color: #0d94e0;
+    --accent-glow: rgba(13, 148, 224, 0.5);
     --border-color: #3a3a3a;
-    --shadow-color: rgba(0, 0, 0, 0.2);
+    --shadow-color: rgba(0, 0, 0, 0.3);
 }
 
 body {
@@ -19,16 +20,22 @@ body {
 
 header {
     text-align: center;
-    padding: 4rem 1rem 2rem 1rem;
+    padding: 4rem 1rem 3rem 1rem;
     border-bottom: 1px solid var(--border-color);
     background: linear-gradient(rgba(18, 18, 18, 0.8), rgba(18, 18, 18, 1));
 }
 
 header h1 {
     font-family: 'Poppins', sans-serif;
-    font-size: 2.5rem;
+    font-size: 2.8rem;
     font-weight: 700;
     margin: 0;
+    background: linear-gradient(90deg, var(--accent-color), #94c5e2, var(--accent-color));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient-flow 5s ease-in-out infinite;
+    background-size: 200% auto;
 }
 
 header p {
@@ -36,6 +43,28 @@ header p {
     color: var(--secondary-text-color);
     max-width: 600px;
     margin: 0.5rem auto 0 auto;
+}
+
+.search-container {
+    margin-top: 2rem;
+}
+
+#search-bar {
+    width: 100%;
+    max-width: 500px;
+    padding: 0.8rem 1.2rem;
+    border-radius: 25px;
+    border: 1px solid var(--border-color);
+    background-color: var(--card-bg-color);
+    color: var(--primary-text-color);
+    font-size: 1rem;
+    outline: none;
+    transition: all 0.3s ease;
+}
+
+#search-bar:focus {
+    border-color: var(--accent-color);
+    box-shadow: 0 0 10px var(--accent-glow);
 }
 
 .card-container {
@@ -62,8 +91,9 @@ header p {
 }
 
 .card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 30px var(--shadow-color);
+    transform: translateY(-8px);
+    box-shadow: 0 10px 25px var(--shadow-color), 0 0 15px var(--accent-glow);
+    border-color: var(--accent-color);
 }
 
 .card h2 {
@@ -105,6 +135,7 @@ header p {
 .button:hover {
     background-color: #0088cc;
     transform: scale(1.05);
+    box-shadow: 0 0 10px var(--accent-glow);
 }
 
 footer {
@@ -135,6 +166,12 @@ footer a:hover {
         opacity: 1;
         transform: translateY(0);
     }
+}
+
+@keyframes gradient-flow {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
 }
 
 @media (max-width: 768px) {
