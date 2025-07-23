@@ -19,7 +19,8 @@ This repository contains my professional certifications and credentials.
 ### Lloyds Banking Group's - Data Science Job Simulation
 *Issued: June 20th, 2025*
 <br>
-*I just completed Lloyds Banking Group's Data Science on Forage. In the simulation I:
+*I just completed Lloyds Banking Group's Data Science on Forage.
+<br>In the simulation I:
 Completed a job simulation involving customer churn prediction for the Data Science & Analytics team at Lloyds Banking Group
 Developed and implemented a predictive model using random forest and other machine learning algorithms, achieving an ROC-AUC score of 0.82
 Conducted advanced data preprocessing, including handling missing values, encoding categorical variables, and feature scaling, utilising Python libraries such as pandas, scikit-learn, and matplotlib
