@@ -251,7 +251,7 @@ This section contains detailed breakdowns of my completed programs and credentia
 
 ### Google Developer Student Clubs - Python and Artificial Intelligence
 * **Organization:** Google Developer Student Clubs/DevTown
-* **Issued:** July, 2024
+* **Issued:** August, 2024
 * **Proof:** [View Certificate](Py&Ai.jpg)
 * **Key Skills:** AI Agents, Generative AI, LLMs, System Architecture
 
