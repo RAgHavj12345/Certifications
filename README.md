@@ -157,6 +157,16 @@ This section contains detailed breakdowns of my recent job simulation experience
 
 ---
 
+### Data Flair - Introduction to DSA using C++
+* **Organization:** Data Flair
+* **Issued:** April, 2025
+* **Proof:** [View Certificate](Introduction-to-Python-Certificate.jpg)
+<a href="Introduction-to-Python-Certificate.jpg">
+  <img src="Introduction-to-Python-Certificate.jpg" alt="J.P. Morgan Quantitative Research Certificate" width="500">
+</a>
+
+---
+
 ### Data Flair - Introduction to Deep Learning
 * **Organization:** Data Flair
 * **Issued:** January, 2025
