@@ -1,11 +1,17 @@
-// This script is ready for future enhancements.
-// For now, it ensures all elements are loaded before applying animations.
 document.addEventListener('DOMContentLoaded', () => {
+    const searchBar = document.getElementById('search-bar');
     const cards = document.querySelectorAll('.card');
-    cards.forEach((card, index) => {
-        card.style.animationDelay = `${index * 100}ms`;
+
+    // Live search filter
+    searchBar.addEventListener('input', (e) => {
+        const searchTerm = e.target.value.toLowerCase().trim();
+
+        cards.forEach(card => {
+            const title = card.querySelector('h2').textContent.toLowerCase();
+            const subtitle = card.querySelector('h3').textContent.toLowerCase();
+            const isVisible = title.includes(searchTerm) || subtitle.includes(searchTerm);
+            
+            card.style.display = isVisible ? 'flex' : 'none';
+        });
     });
 });
-
-// Example of future interactivity:
-// You could add a "Show/Hide Tasks" button to each card.
