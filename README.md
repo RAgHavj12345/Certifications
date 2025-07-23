@@ -269,6 +269,16 @@ This section contains detailed breakdowns of my completed programs and credentia
 
 ---
 
+### AWS community builders - Python and Artificial Intelligence
+* **Organization:** Microsoft Learn Student Ambassador
+* **Issued:** August, 2024
+* **Proof:** [View Certificate](awsai.jpg)
+<a href="awsai.jpg">
+  <img src="awsai.jpg" alt="IBM AI Agent Architect Certificate" width="500">
+</a>
+
+---
+
 
 ### Tata - Cybersecurity Analyst
 * **Organization:** Tata / Forage
