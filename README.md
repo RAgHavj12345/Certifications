@@ -12,7 +12,7 @@ Here are detailed breakdowns of my recent job simulation experiences.
 
 * **Program:** Data Science Job Simulation
 * **Organization:** Lloyds Banking Group / Forage
-* **Issued:** *June 20th, 2025*
+* **Issued:** *June, 2025*
 * **Proof:** [View Certificate](forage-lloyds-cert.jpg)
 
 <a href="forage-lloyds-cert.jpg">
@@ -32,7 +32,7 @@ In this simulation, I completed the following tasks:
 
 * **Program:** Data Science Job Simulation
 * **Organization:** BCG X / Forage
-* **Issued:** June 20, 2025
+* **Issued:** June, 2025
 * **Proof:** [View Certificate](forage-bcg-cert.jpg)
 
 <a href="forage-bcg-cert.jpg">
@@ -46,6 +46,25 @@ In this simulation, I completed the following tasks:
 3.  **Conducted** efficient data analysis using Python, including Pandas and NumPy. Employed data visualization techniques for insightful trend interpretation.
 4.  **Completed** a concise executive summary for the team, delivering actionable insights for informed decision-making based on the analysis.
  
+---
+### Quantium - Data Analytics on Forage
+
+* **Program:** Data Analytics Simulation
+* **Organization:** Quantium / Forage
+* **Issued:** *June, 2025*
+* **Proof:** [View Certificate](forage-lloyds-cert.jpg)
+
+<a href="forage-lloyds-cert.jpg">
+  <img src="forage-lloyds-cert.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+</a>
+
+In this simulation, I completed the following tasks:
+
+1.  **Completed** a job simulation involving **customer churn prediction** for the Data Science & Analytics team at Lloyds Banking Group.
+2.  **Developed** and implemented a predictive model using **Random Forest** and other machine learning algorithms, achieving an **ROC-AUC score of 0.82**.
+3.  **Conducted** advanced data preprocessing, including handling missing values, encoding categorical variables, and feature scaling, utilizing Python libraries such as **pandas**, **scikit-learn**, and **matplotlib**.
+4.  **Performed** comprehensive model evaluation and tuning, optimizing hyperparameters with **GridSearchCV**, and applied **feature importance analysis** to derive actionable business insights.
+
 ---
 
 ## 📚 All Certifications (Tabular View)
