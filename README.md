@@ -152,11 +152,11 @@ In this simulation, I completed the following tasks:
 * **Program:** Data Visualisation: Empowering Business with Effective Insights Simulation
 * **Organization:** Tata / Forage
 * **Issued:** *July, 2024*
-* **Proof:** [View Certificate](forage-tac-certi.jpg
+* **Proof:** [View Certificate](forage-tdv-certi.jpg
 )
 
-<a href="forage-tac-certi.jpg">
-  <img src="forage-tac-certi.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+<a href="forage-tdv-certi.jpg">
+  <img src="forage-tdv-certi.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
 </a>
 
 In this simulation, I completed the following tasks:
