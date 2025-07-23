@@ -47,7 +47,7 @@ In this simulation, I completed the following tasks:
 
 ---
 
-### BCG X - Data Science Simulation
+### BCG X - Data Science
 
 * **Program:** Data Science Job Simulation
 * **Organization:** BCG X / Forage
@@ -66,7 +66,7 @@ In this simulation, I completed the following tasks:
 4.  **Completed** a concise executive summary for the team, delivering actionable insights for informed decision-making based on the analysis.
  
 ---
-### Quantium - Data Analytics on Forage
+### Quantium - Data Analytics
 
 * **Program:** Data Analytics Simulation
 * **Organization:** Quantium / Forage
@@ -84,6 +84,25 @@ In this simulation, I completed the following tasks:
 2.  **Developed** expertise in data preparation and customer analytics, utilizing transaction datasets to extract valuable insights and deliver data-driven commercial recommendations.
 3.  **Extended** analytical capabilities to identify benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making.
 4.  **Leveraged** acquired data analytics and insights from previous tasks to create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
+
+---
+### Deloitte Australia - Data Analytics
+
+* **Program:** Data Analytics Simulation
+* **Organization:** Deloitte Australia / Forage
+* **Issued:** *June, 2025*
+* **Proof:** [View Certificate](forage-quantinum-cert.jpg
+)
+
+<a href="forage-quantinum-cert.jpg">
+  <img src="forage-quantinum-cert.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+</a>
+
+In this simulation, I completed the following tasks:
+
+1.  **Completed** a Deloitte job simulation involving data analysis and forensic technology 
+2.  **Created** a data dashboard using Tableau
+3.  **Used** Excel to classify data and draw business conclusions
 
 ---
 
