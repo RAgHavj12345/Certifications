@@ -256,6 +256,17 @@ This section contains detailed breakdowns of my completed programs and credentia
 <a href="Py%26Ai.jpg">
   <img src="Py%26Ai.jpg" alt="IBM AI Agent Architect Certificate" width="500">
 </a>
+
+---
+
+### Microsoft Learn Student Ambassador - Python and Artificial Intelligence
+* **Organization:** Microsoft Learn Student Ambassador/DevTown
+* **Issued:** August, 2024
+* **Proof:** [View Certificate](Microsoft%20Std%20Amb.jpg)
+<a href="Microsoft Std Amb.jpg">
+  <img src="Microsoft Std Amb.jpg" alt="IBM AI Agent Architect Certificate" width="500">
+</a>
+
 ---
 
 
