@@ -1,175 +1,204 @@
-# 🎓 Professional Certifications
+# 🎓 Professional Certifications & Job Simulations
 
-A showcase of my professional development and technical credentials.
+A showcase of my professional development, hands-on project experience, and technical credentials.
 
 ---
 
 ## ✨ Featured Simulations
 
-Here are detailed breakdowns of my recent job simulation experiences.
+This section contains detailed breakdowns of my recent job simulation experiences.
+
+### Table of Contents
+1.  [J.P. Morgan - Quantitative Research](#jp-morgan---quantitative-research)
+2.  [Lloyds Banking Group - Data Science](#lloyds-banking-group---data-science-simulation)
+3.  [BCG X - Data Science](#bcg-x---data-science)
+4.  [Quantium - Data Analytics](#quantium---data-analytics)
+5.  [Deloitte - Data Analytics](#deloitte---data-analytics)
+6.  [Tata - GenAI Powered Data Analytics](#tata---genai-powered-data-analytics)
+7.  [Tata - Cybersecurity Analyst](#tata---cybersecurity-analyst)
+8.  [Tata - Data Visualisation](#tata---data-visualisation)
+
+---
 
 ### J.P. Morgan - Quantitative Research
-
-* **Program:** Quantitative Research Job Simulation
 * **Organization:** J.P. Morgan / Forage
-* **Issued:** *June, 2025*
-* **Proof:** [View Certificate](forage-jpmorgan-certi.jpg)
+* **Issued:** June, 2025
+* **Proof:** [View Certificate](forage-jpmorgan-cert.jpg)
+* **Key Skills:** Quantitative Analysis, Probability Modeling, Dynamic Programming, Python
 
-<a href="forage-jpmorgan-certi.jpg">
-  <img src="forage-jpmorgan-certi.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+<details>
+<summary>View Tasks & Accomplishments</summary>
+
+1.  **Analyzed** a diverse loan portfolio to engineer features and estimate a customer's probability of default.
+2.  **Applied** dynamic programming techniques to convert FICO scores into categorical data for robust predictive modeling.
+3.  **Developed** a quantitative model to assess credit risk and inform future lending strategies.
+
+</details>
+
+<a href="forage-jpmorgan-cert.jpg">
+  <img src="forage-jpmorgan-cert.jpg" alt="J.P. Morgan Quantitative Research Certificate" width="500">
 </a>
 
-In this simulation, I completed the following tasks:
-
-1.  **Completed** a simulation focused on quantitative research methods 
-2.  **Analyzed** a book of loans to estimate a customer's probability of default
-3.  **Used** dynamic programming to convert FICO scores into categorical data to predict defaults
- 
 ---
 
 ### Lloyds Banking Group - Data Science Simulation
-
-* **Program:** Data Science Job Simulation
 * **Organization:** Lloyds Banking Group / Forage
-* **Issued:** *June, 2025*
+* **Issued:** June, 2025
 * **Proof:** [View Certificate](forage-lloyds-cert.jpg)
+* **Key Skills:** Machine Learning, Predictive Modeling, Python (Pandas, Scikit-learn), Hyperparameter Tuning
+
+<details>
+<summary>View Tasks & Accomplishments</summary>
+
+1.  **Engineered** a predictive model to identify customer churn, achieving an **ROC-AUC score of 0.82** using a Random Forest classifier.
+2.  **Executed** advanced data preprocessing, including handling missing values, encoding categorical variables, and feature scaling.
+3.  **Performed** comprehensive model evaluation and hyperparameter tuning with **GridSearchCV** to optimize performance.
+4.  **Derived** actionable business insights from **feature importance analysis** to inform customer retention strategies.
+
+</details>
 
 <a href="forage-lloyds-cert.jpg">
   <img src="forage-lloyds-cert.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
 </a>
 
-In this simulation, I completed the following tasks:
-
-1.  **Completed** a job simulation involving **customer churn prediction** for the Data Science & Analytics team at Lloyds Banking Group.
-2.  **Developed** and implemented a predictive model using **Random Forest** and other machine learning algorithms, achieving an **ROC-AUC score of 0.82**.
-3.  **Conducted** advanced data preprocessing, including handling missing values, encoding categorical variables, and feature scaling, utilizing Python libraries such as **pandas**, **scikit-learn**, and **matplotlib**.
-4.  **Performed** comprehensive model evaluation and tuning, optimizing hyperparameters with **GridSearchCV**, and applied **feature importance analysis** to derive actionable business insights.
-
 ---
 
 ### BCG X - Data Science
-
-* **Program:** Data Science Job Simulation
 * **Organization:** BCG X / Forage
 * **Issued:** June, 2025
 * **Proof:** [View Certificate](forage-bcg-cert.jpg)
+* **Key Skills:** Data Analysis, Customer Segmentation, Python (Pandas, NumPy), Data Visualization
+
+<details>
+<summary>View Tasks & Accomplishments</summary>
+
+1.  **Engineered** and optimized a Random Forest model, achieving a **50% recall rate** in predicting customer churn, prioritizing the identification of at-risk customers.
+2.  **Conducted** in-depth data analysis and feature engineering using **Pandas** and **NumPy**.
+3.  **Developed** insightful data visualizations to interpret trends and present findings effectively.
+4.  **Authored** a concise executive summary, translating complex analytical results into actionable business recommendations.
+
+</details>
 
 <a href="forage-bcg-cert.jpg">
   <img src="forage-bcg-cert.jpg" alt="BCG X Data Science Certificate" width="500">
 </a>
 
-In this simulation, I completed the following tasks:
-
-1.  **Completed** a customer churn analysis simulation for XYZ Analytics, demonstrating advanced data analytics skills, identifying essential client data and outlining a strategic investigation approach.
-2.  **Completed** the engineering and optimization of a random forest model, achieving an 50% recall rate in predicting customer churn.
-3.  **Conducted** efficient data analysis using Python, including Pandas and NumPy. Employed data visualization techniques for insightful trend interpretation.
-4.  **Completed** a concise executive summary for the team, delivering actionable insights for informed decision-making based on the analysis.
- 
 ---
+
 ### Quantium - Data Analytics
-
-* **Program:** Data Analytics Simulation
 * **Organization:** Quantium / Forage
-* **Issued:** *June, 2025*
-* **Proof:** [View Certificate](forage-quantinum-cert.jpg
-)
+* **Issued:** June, 2025
+* **Proof:** [View Certificate](forage-quantium-cert.jpg)
+* **Key Skills:** Commercial Analytics, Customer Segmentation, A/B Testing, Data-driven Strategy
 
-<a href="forage-quantinum-cert.jpg">
-  <img src="forage-quantinum-cert.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+<details>
+<summary>View Tasks & Accomplishments</summary>
+
+1.  **Analyzed** large-scale transaction datasets to prepare data and derive customer insights for commercial recommendations.
+2.  **Identified** and validated benchmark stores to measure performance and conduct uplift testing for trial store layouts.
+3.  **Synthesized** analytical findings into comprehensive reports for category managers to facilitate strategic decision-making.
+
+</details>
+
+<a href="forage-quantium-cert.jpg">
+  <img src="forage-quantium-cert.jpg" alt="Quantium Data Analytics Certificate" width="500">
 </a>
-
-In this simulation, I completed the following tasks:
-
-1.  **Completed** a job simulation focused on Data Analytics and Commercial Insights for the data science team.
-2.  **Developed** expertise in data preparation and customer analytics, utilizing transaction datasets to extract valuable insights and deliver data-driven commercial recommendations.
-3.  **Extended** analytical capabilities to identify benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making.
-4.  **Leveraged** acquired data analytics and insights from previous tasks to create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
 
 ---
-### Deloitte Australia - Data Analytics
 
-* **Program:** Data Analytics Simulation
+### Deloitte - Data Analytics
 * **Organization:** Deloitte Australia / Forage
-* **Issued:** *June, 2025*
-* **Proof:** [View Certificate](forage-deill-certi.jpg
-)
+* **Issued:** June, 2025
+* **Proof:** [View Certificate](forage-deloitte-cert.jpg)
+* **Key Skills:** Data Dashboards, Data Classification, Forensic Technology, Tableau, Excel
 
-<a href="forage-deill-certi.jpg">
-  <img src="forage-deill-certi.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+<details>
+<summary>View Tasks & Accomplishments</summary>
+
+1.  **Investigated** business scenarios using data analysis and forensic technology principles.
+2.  **Designed** and built an interactive data dashboard using **Tableau** to visualize key metrics and findings.
+3.  **Leveraged** advanced Excel functions for data classification and to derive actionable business conclusions.
+
+</details>
+
+<a href="forage-deloitte-cert.jpg">
+  <img src="forage-deloitte-cert.jpg" alt="Deloitte Data Analytics Certificate" width="500">
 </a>
-
-In this simulation, I completed the following tasks:
-
-1.  **Completed** a Deloitte job simulation involving data analysis and forensic technology 
-2.  **Created** a data dashboard using Tableau
-3.  **Used** Excel to classify data and draw business conclusions
 
 ---
 
 ### Tata - GenAI Powered Data Analytics
-
-* **Program:** GenAI Powered Data Analytics Simulation
 * **Organization:** Tata / Forage
-* **Issued:** *June, 2025*
-* **Proof:** [View Certificate](forage-tga-certi.jpg
-)
+* **Issued:** June, 2025
+* **Proof:** [View Certificate](forage-tata-genai-cert.jpg)
+* **Key Skills:** Generative AI, Exploratory Data Analysis (EDA), Predictive Modeling, AI Strategy, Ethical AI
 
-<a href="forage-tga-certi.jpg">
-  <img src="forage-tga-certi.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+<details>
+<summary>View Tasks & Accomplishments</summary>
+
+1.  **Utilized** GenAI tools for exploratory data analysis (EDA) to assess data quality and identify risk indicators.
+2.  **Proposed** a no-code predictive modeling framework to assess customer delinquency risk, using GenAI for model logic.
+3.  **Designed** an AI-driven collections strategy incorporating agentic AI, automation, and ethical AI principles.
+
+</details>
+
+<a href="forage-tata-genai-cert.jpg">
+  <img src="forage-tata-genai-cert.jpg" alt="Tata GenAI Powered Data Analytics Certificate" width="500">
 </a>
-
-In this simulation, I completed the following tasks:
-
-1.  **Completed** a job simulation involving AI-powered data analytics and strategy development for the Financial Services team at Tata iQ.
-2.  **Conducted** exploratory data analysis (EDA) using GenAI tools to assess data quality, identify risk indicators, and structure insights for predictive modeling.
-3.  **Proposed** and justified an initial no-code predictive modeling framework to assess customer delinquency risk, leveraging GenAI for structured model logic and evaluation criteria.
-4.  **Designed** an AI-driven collections strategy leveraging agentic AI and automation, incorporating ethical AI principles, regulatory compliance, and scalable implementation frameworks.
 
 ---
 
 ### Tata - Cybersecurity Analyst
-
-* **Program:** Cybersecurity Analyst Simulation
 * **Organization:** Tata / Forage
-* **Issued:** *July, 2024*
-* **Proof:** [View Certificate](forage-tac-certi.jpg
-)
+* **Issued:** July, 2024
+* **Proof:** [View Certificate](forage-tata-cyber-cert.jpg)
+* **Key Skills:** Identity & Access Management (IAM), Cybersecurity Consulting, Stakeholder Communication
 
-<a href="forage-tac-certi.jpg">
-  <img src="forage-tac-certi.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+<details>
+<summary>View Tasks & Accomplishments</summary>
+
+1.  **Applied** core Identity and Access Management (IAM) principles within a cybersecurity consulting context.
+2.  **Aligned** technical security solutions with strategic business objectives to ensure comprehensive protection.
+3.  **Delivered** clear and comprehensive documentation and presentations to communicate complex technical concepts effectively.
+
+</details>
+
+<a href="forage-tata-cyber-cert.jpg">
+  <img src="forage-tata-cyber-cert.jpg" alt="Tata Cybersecurity Analyst Certificate" width="500">
 </a>
-
-In this simulation, I completed the following tasks:
-
-1.  **Completed** a job simulation involving identity and access management (IAM) for Tata Consultancy Services, collaborating with a Cybersecurity Consulting team.
-2.  **Acquired** expertise in IAM principles, cybersecurity best practices, and strategic alignment with business objectives.
-3.  **Delivered** comprehensive documentation and presentations, showcasing the ability to communicate complex technical concepts effectively.
 
 ---
 
-### Tata - Data Visualisation: Empowering Business with Effective Insights
-
-* **Program:** Data Visualisation: Empowering Business with Effective Insights Simulation
+### Tata - Data Visualisation
 * **Organization:** Tata / Forage
-* **Issued:** *July, 2024*
-* **Proof:** [View Certificate](forage-tdv-certi.jpg
-)
+* **Issued:** July, 2024
+* **Proof:** [View Certificate](forage-tata-dataviz-cert.jpg)
+* **Key Skills:** Data Visualization, Stakeholder Engagement, Dashboard Design, Business Intelligence
 
-<a href="forage-tdv-certi.jpg">
-  <img src="forage-tdv-certi.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+<details>
+<summary>View Tasks & Accomplishments</summary>
+
+1.  **Translated** business requirements into clear, targeted questions for senior leadership.
+2.  **Designed** and created compelling data visualizations to reveal trends and patterns.
+3.  **Built** visuals to empower executive decision-making with actionable, data-driven insights.
+
+</details>
+
+<a href="forage-tata-dataviz-cert.jpg">
+  <img src="forage-tata-dataviz-cert.jpg" alt="Tata Data Visualisation Certificate" width="500">
 </a>
-
-In this simulation, I completed the following tasks:
-
-1.  **Completed** a simulation involving creating data visualizations for Tata Consultancy Services
-2.  **Prepared** questions for a meeting with client senior leadership
-3.  **Created** cvisuals for data analysis to help executives with effective decision making
 
 ---
 
 ## 📚 All Certifications (Tabular View)
 
-| Certificate | Issuing Organization | Date Issued | Proof |
-| :--- | :--- | :--- | :--- |
-| **Data Science Simulation** | Lloyds Banking Group / Forage | *[Enter Date]* | [View Certificate](forage-lloyds-cert.jpg) |
-| **Data Science Simulation** | BCG X / Forage | June 20, 2025 | [View Certificate](forage-bcg-cert.jpg) |
+| Certificate / Simulation | Issuing Organization | Date Issued |
+| :--- | :--- | :--- |
+| **Quantitative Research** | J.P. Morgan / Forage | June, 2025 |
+| **Data Science Simulation** | Lloyds Banking Group / Forage | June, 2025 |
+| **Data Science Simulation** | BCG X / Forage | June, 2025 |
+| **Data Analytics Simulation** | Quantium / Forage | June, 2025 |
+| **Data Analytics Simulation** | Deloitte / Forage | June, 2025 |
+| **GenAI Powered Data Analytics** | Tata / Forage | June, 2025 |
+| **Cybersecurity Analyst** | Tata / Forage | July, 2024 |
+| **Data Visualisation** | Tata / Forage | July, 2024 |
