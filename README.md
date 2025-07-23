@@ -111,11 +111,11 @@ In this simulation, I completed the following tasks:
 * **Program:** GenAI Powered Data Analytics Simulation
 * **Organization:** Tata / Forage
 * **Issued:** *June, 2025*
-* **Proof:** [View Certificate](forage-tac-certi.jpg
+* **Proof:** [View Certificate](forage-tga-certi.jpg
 )
 
-<a href="forage-tac-certi.jpg">
-  <img src="forage-tac-certi.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+<a href="forage-tga-certi.jpg">
+  <img src="forage-tga-certi.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
 </a>
 
 In this simulation, I completed the following tasks:
