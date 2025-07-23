@@ -8,13 +8,13 @@ This repository contains my professional certifications and credentials.
 *Issued: June 20th, 2025*
 <br>
 *An online job simulation completed with Forage.*
+<br>
 *Verification: [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_dvrqGPsj9DzvRsCKQ_1750449805792_completion_certificate.pdf)*
 
 <a href="forage-bcg-cert.jpg">
   <img src="forage-bcg-cert.jpg" alt="BCG X Data Science Certificate" width="500">
 </a>
 
----
 ---
 
 ---
