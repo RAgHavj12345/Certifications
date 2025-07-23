@@ -23,7 +23,7 @@ This section contains detailed breakdowns of my recent job simulation experience
 ### J.P. Morgan - Quantitative Research
 * **Organization:** J.P. Morgan / Forage
 * **Issued:** June, 2025
-* **Proof:** [View Certificate](forage-jpmorgan-cert.jpg)
+* **Proof:** [View Certificate](forage-jpmorgan-certi.jpg)
 * **Key Skills:** Quantitative Analysis, Probability Modeling, Dynamic Programming, Python
 
 <details>
@@ -35,8 +35,8 @@ This section contains detailed breakdowns of my recent job simulation experience
 
 </details>
 
-<a href="forage-jpmorgan-cert.jpg">
-  <img src="forage-jpmorgan-cert.jpg" alt="J.P. Morgan Quantitative Research Certificate" width="500">
+<a href="forage-jpmorgan-certi.jpg">
+  <img src="forage-jpmorgan-certi.jpg" alt="J.P. Morgan Quantitative Research Certificate" width="500">
 </a>
 
 ---
@@ -88,7 +88,7 @@ This section contains detailed breakdowns of my recent job simulation experience
 ### Quantium - Data Analytics
 * **Organization:** Quantium / Forage
 * **Issued:** June, 2025
-* **Proof:** [View Certificate](forage-quantium-cert.jpg)
+* **Proof:** [View Certificate](forage-quantinum-cert.jpg)
 * **Key Skills:** Commercial Analytics, Customer Segmentation, A/B Testing, Data-driven Strategy
 
 <details>
@@ -100,8 +100,8 @@ This section contains detailed breakdowns of my recent job simulation experience
 
 </details>
 
-<a href="forage-quantium-cert.jpg">
-  <img src="forage-quantium-cert.jpg" alt="Quantium Data Analytics Certificate" width="500">
+<a href="forage-quantinum-cert.jpg">
+  <img src="forage-quantinum-cert.jpg" alt="Quantium Data Analytics Certificate" width="500">
 </a>
 
 ---
@@ -109,7 +109,7 @@ This section contains detailed breakdowns of my recent job simulation experience
 ### Deloitte - Data Analytics
 * **Organization:** Deloitte Australia / Forage
 * **Issued:** June, 2025
-* **Proof:** [View Certificate](forage-deloitte-cert.jpg)
+* **Proof:** [View Certificate](forage-deill-certi.jpg)
 * **Key Skills:** Data Dashboards, Data Classification, Forensic Technology, Tableau, Excel
 
 <details>
@@ -121,8 +121,8 @@ This section contains detailed breakdowns of my recent job simulation experience
 
 </details>
 
-<a href="forage-deloitte-cert.jpg">
-  <img src="forage-deloitte-cert.jpg" alt="Deloitte Data Analytics Certificate" width="500">
+<a href="forage-deill-certi.jpg">
+  <img src="forage-deill-certi.jpg" alt="Deloitte Data Analytics Certificate" width="500">
 </a>
 
 ---
@@ -130,7 +130,7 @@ This section contains detailed breakdowns of my recent job simulation experience
 ### Tata - GenAI Powered Data Analytics
 * **Organization:** Tata / Forage
 * **Issued:** June, 2025
-* **Proof:** [View Certificate](forage-tata-genai-cert.jpg)
+* **Proof:** [View Certificate](forage-tga-certi.jpg)
 * **Key Skills:** Generative AI, Exploratory Data Analysis (EDA), Predictive Modeling, AI Strategy, Ethical AI
 
 <details>
@@ -142,8 +142,8 @@ This section contains detailed breakdowns of my recent job simulation experience
 
 </details>
 
-<a href="forage-tata-genai-cert.jpg">
-  <img src="forage-tata-genai-cert.jpg" alt="Tata GenAI Powered Data Analytics Certificate" width="500">
+<a href="forage-tga-certi.jpg">
+  <img src="forage-tga-certi.jpg" alt="Tata GenAI Powered Data Analytics Certificate" width="500">
 </a>
 
 ---
@@ -151,7 +151,7 @@ This section contains detailed breakdowns of my recent job simulation experience
 ### Tata - Cybersecurity Analyst
 * **Organization:** Tata / Forage
 * **Issued:** July, 2024
-* **Proof:** [View Certificate](forage-tata-cyber-cert.jpg)
+* **Proof:** [View Certificate](forage-tac-certi.jpg)
 * **Key Skills:** Identity & Access Management (IAM), Cybersecurity Consulting, Stakeholder Communication
 
 <details>
@@ -163,8 +163,8 @@ This section contains detailed breakdowns of my recent job simulation experience
 
 </details>
 
-<a href="forage-tata-cyber-cert.jpg">
-  <img src="forage-tata-cyber-cert.jpg" alt="Tata Cybersecurity Analyst Certificate" width="500">
+<a href="forage-tac-certi.jpg">
+  <img src="forage-tac-certi.jpg" alt="Tata Cybersecurity Analyst Certificate" width="500">
 </a>
 
 ---
@@ -172,7 +172,7 @@ This section contains detailed breakdowns of my recent job simulation experience
 ### Tata - Data Visualisation
 * **Organization:** Tata / Forage
 * **Issued:** July, 2024
-* **Proof:** [View Certificate](forage-tata-dataviz-cert.jpg)
+* **Proof:** [View Certificate](forage-tdv-certi.jpg)
 * **Key Skills:** Data Visualization, Stakeholder Engagement, Dashboard Design, Business Intelligence
 
 <details>
@@ -184,8 +184,8 @@ This section contains detailed breakdowns of my recent job simulation experience
 
 </details>
 
-<a href="forage-tata-dataviz-cert.jpg">
-  <img src="forage-tata-dataviz-cert.jpg" alt="Tata Data Visualisation Certificate" width="500">
+<a href="forage-tdv-certi.jpg">
+  <img src="forage-tdv-certi.jpg" alt="Tata Data Visualisation Certificate" width="500">
 </a>
 
 ---
