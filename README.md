@@ -106,6 +106,27 @@ In this simulation, I completed the following tasks:
 
 ---
 
+### Tata - GenAI Powered Data Analytics
+
+* **Program:** GenAI Powered Data Analytics Simulation
+* **Organization:** Tata / Forage
+* **Issued:** *June, 2025*
+* **Proof:** [View Certificate](forage-tac-certi.jpg
+)
+
+<a href="forage-tac-certi.jpg">
+  <img src="forage-tac-certi.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+</a>
+
+In this simulation, I completed the following tasks:
+
+1.  **Completed** a job simulation involving AI-powered data analytics and strategy development for the Financial Services team at Tata iQ.
+2.  **Conducted** exploratory data analysis (EDA) using GenAI tools to assess data quality, identify risk indicators, and structure insights for predictive modeling.
+3.  **Proposed** and justified an initial no-code predictive modeling framework to assess customer delinquency risk, leveraging GenAI for structured model logic and evaluation criteria.
+4.  **Designed** an AI-driven collections strategy leveraging agentic AI and automation, incorporating ethical AI principles, regulatory compliance, and scalable implementation frameworks.
+
+---
+
 ### Tata - Cybersecurity Analyst
 
 * **Program:** Cybersecurity Analyst Simulation
