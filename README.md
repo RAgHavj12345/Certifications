@@ -279,6 +279,15 @@ This section contains detailed breakdowns of my completed programs and credentia
 
 ---
 
+### DevTown - CERTIFICATE OF APPRECIATION
+* **Organization:** DevTown
+* **Issued:** August, 2024
+* **Proof:** [View Certificate](devapp.jpg)
+<a href="devapp.jpg">
+  <img src="devapp.jpg" alt="IBM AI Agent Architect Certificate" width="500">
+</a>
+
+---
 
 ### Tata - Cybersecurity Analyst
 * **Organization:** Tata / Forage
