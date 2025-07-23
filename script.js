@@ -3,30 +3,34 @@ document.addEventListener('DOMContentLoaded', () => {
     const allCards = document.querySelectorAll('.card');
 
     // --- Live Search Filter ---
-    searchBar.addEventListener('input', (e) => {
-        const searchTerm = e.target.value.toLowerCase().trim();
-        allCards.forEach(card => {
-            const title = card.querySelector('h2').textContent.toLowerCase();
-            const subtitle = card.querySelector('h3').textContent.toLowerCase();
-            const isVisible = title.includes(searchTerm) || subtitle.includes(searchTerm);
-            card.style.display = isVisible ? 'flex' : 'none';
+    if (searchBar) {
+        searchBar.addEventListener('input', (e) => {
+            const searchTerm = e.target.value.toLowerCase().trim();
+            allCards.forEach(card => {
+                const title = card.querySelector('h2').textContent.toLowerCase();
+                const subtitle = card.querySelector('h3').textContent.toLowerCase();
+                const isVisible = title.includes(searchTerm) || subtitle.includes(searchTerm);
+                card.style.display = isVisible ? 'flex' : 'none';
+            });
         });
-    });
+    }
 
     // --- Scroll-triggered Animations ---
-    const observer = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) {
-                entry.target.classList.add('is-visible');
-            }
+    if ('IntersectionObserver' in window) {
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('is-visible');
+                }
+            });
+        }, {
+            threshold: 0.1 // Trigger when 10% of the card is visible
         });
-    }, {
-        threshold: 0.1 // Trigger when 10% of the card is visible
-    });
 
-    allCards.forEach(card => {
-        observer.observe(card);
-    });
+        allCards.forEach(card => {
+            observer.observe(card);
+        });
+    }
 
     // --- 3D Tilt Effect ---
     allCards.forEach(card => {
