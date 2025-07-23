@@ -164,7 +164,7 @@ This section contains detailed breakdowns of my recent job simulation experience
 </details>
 
 <a href="Deep Learning.jpg">
-  <img src="forage-tga-certi.jpg" alt="Tata GenAI Powered Data Analytics Certificate" width="500">
+  <img src="Deep Learning.jpg" alt="Tata GenAI Powered Data Analytics Certificate" width="500">
 </a>
 
 ---
