@@ -252,13 +252,12 @@ This section contains detailed breakdowns of my completed programs and credentia
 ### Google Developer Student Clubs - Python and Artificial Intelligence
 * **Organization:** Google Developer Student Clubs/DevTown
 * **Issued:** July, 2024
-* **Proof:** [View Certificate](cloudcom.jpg)
+* **Proof:** [View Certificate](Py&Ai.jpg)
 * **Key Skills:** AI Agents, Generative AI, LLMs, System Architecture
 
-<a href="cloudcom.jpg">
-  <img src="cloudcom.jpg" alt="IBM AI Agent Architect Certificate" width="500">
+<a href="Py%26Ai.jpg">
+  <img src="Py%26Ai.jpg" alt="IBM AI Agent Architect Certificate" width="500">
 </a>
-
 ---
 
 
