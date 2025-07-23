@@ -13,10 +13,10 @@ Here are detailed breakdowns of my recent job simulation experiences.
 * **Program:** Data Science Job Simulation
 * **Organization:** Lloyds Banking Group / Forage
 * **Issued:** *[Enter Date for Lloyds Cert]*
-* **Proof:** [View Certificate](lloyds-cert.jpg)
+* **Proof:** [View Certificate](forage-lloyds-cert.jpg)
 
-<a href="lloyds-cert.jpg">
-  <img src="lloyds-cert.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+<a href="forage-lloyds-cert.jpg">
+  <img src="forage-lloyds-cert.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
 </a>
 
 In this simulation, I completed the following tasks:
