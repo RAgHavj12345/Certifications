@@ -55,10 +55,8 @@ In this simulation, I completed the following tasks:
 * **Proof:** [View Certificate](forage-quantinum-cert.jpg
 )
 
-<a href="forage-quantinum-cert.jpg
-">
-  <img src="forage-quantinum-cert.jpg
-" alt="Lloyds Banking Group Data Science Certificate" width="500">
+<a href="forage-quantinum-cert.jpg">
+  <img src="forage-quantinum-cert.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
 </a>
 
 In this simulation, I completed the following tasks:
