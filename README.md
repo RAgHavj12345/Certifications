@@ -52,7 +52,6 @@ In this simulation, I completed the following tasks:
 
 | Certificate | Issuing Organization | Date Issued | Proof |
 | :--- | :--- | :--- | :--- |
-| **Data Science Simulation** | Lloyds Banking Group / Forage | *[Enter Date]* | [View Certificate](lloyds-cert.jpg) |
+| **Data Science Simulation** | Lloyds Banking Group / Forage | *[Enter Date]* | [View Certificate](forage-lloyds-cert.jpg) |
 | **Data Science Simulation** | BCG X / Forage | June 20, 2025 | [View Certificate](forage-bcg-cert.jpg) |
 | **AWS Certified Solutions Architect** | Amazon Web Services | July 2025 | [View Badge](link-to-your-aws-badge) • [View PDF](aws-certificate.pdf) |
-| **TensorFlow Developer Certificate** | Google | May 2025 | [View Badge](link-to-your-google-badge) • [View PDF](google-certificate.pdf) |
