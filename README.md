@@ -167,6 +167,16 @@ This section contains detailed breakdowns of my recent job simulation experience
 
 ---
 
+### Data Flair - Introduction to Django
+* **Organization:** Data Flair
+* **Issued:** February, 2025
+* **Proof:** [View Certificate](Introduction-to-Django.jpg)
+<a href="Introduction-to-Django.jpg">
+  <img src="Introduction-to-Django.jpg" alt="J.P. Morgan Quantitative Research Certificate" width="500">
+</a>
+
+---
+
 ### Data Flair - Introduction to Deep Learning
 * **Organization:** Data Flair
 * **Issued:** January, 2025
