@@ -16,6 +16,20 @@ This repository contains my professional certifications and credentials.
 </a>
 
 ---
+### Lloyds Banking Group's - Data Science Job Simulation
+*Issued: June 20th, 2025*
+<br>
+*I just completed Lloyds Banking Group's Data Science on Forage. In the simulation I:
+Completed a job simulation involving customer churn prediction for the Data Science & Analytics team at Lloyds Banking Group
+Developed and implemented a predictive model using random forest and other machine learning algorithms, achieving an ROC-AUC score of 0.82
+Conducted advanced data preprocessing, including handling missing values, encoding categorical variables, and feature scaling, utilising Python libraries such as pandas, scikit-learn, and matplotlib
+Performed comprehensive model evaluation and tuning, optimising hyperparameters with GridSearchCV, and applied feature importance analysis to derive actionable business insights*
+<br>
+*Verification: [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_dvrqGPsj9DzvRsCKQ_1750449805792_completion_certificate.pdf)*
+
+<a href="forage-bcg-cert.jpg">
+  <img src="forage-bcg-cert.jpg" alt="BCG X Data Science Certificate" width="500">
+</a>
 
 ---
 
