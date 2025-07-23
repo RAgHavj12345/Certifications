@@ -151,7 +151,7 @@ This section contains detailed breakdowns of my recent job simulation experience
 ### Data Flair - Introduction to Deep Learning
 * **Organization:** Data Flair
 * **Issued:** January, 2025
-* **Proof:** [View Certificate](Deep Learning.jpg)
+* **Proof:** [View Certificate](Deep%20Learning.jpg)
 * **Key Skills:** Generative AI, Exploratory Data Analysis (EDA), Predictive Modeling, AI Strategy, Ethical AI
 
 <details>
