@@ -12,7 +12,7 @@ Here are detailed breakdowns of my recent job simulation experiences.
 
 * **Program:** Data Science Job Simulation
 * **Organization:** Lloyds Banking Group / Forage
-* **Issued:** *[Enter Date for Lloyds Cert]*
+* **Issued:** *June 20th, 2025*
 * **Proof:** [View Certificate](forage-lloyds-cert.jpg)
 
 <a href="forage-lloyds-cert.jpg">
