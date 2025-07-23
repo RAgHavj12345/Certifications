@@ -106,6 +106,26 @@ In this simulation, I completed the following tasks:
 
 ---
 
+### Tata - Cybersecurity Analyst
+
+* **Program:** Cybersecurity Analyst Simulation
+* **Organization:** Tata / Forage
+* **Issued:** *July, 2024*
+* **Proof:** [View Certificate](forage-deill-certi.jpg
+)
+
+<a href="forage-deill-certi.jpg">
+  <img src="forage-deill-certi.jpg" alt="Lloyds Banking Group Data Science Certificate" width="500">
+</a>
+
+In this simulation, I completed the following tasks:
+
+1.  **Completed** a job simulation involving identity and access management (IAM) for Tata Consultancy Services, collaborating with a Cybersecurity Consulting team.
+2.  **Acquired** expertise in IAM principles, cybersecurity best practices, and strategic alignment with business objectives.
+3.  **Delivered** comprehensive documentation and presentations, showcasing the ability to communicate complex technical concepts effectively.
+
+---
+
 ## 📚 All Certifications (Tabular View)
 
 | Certificate | Issuing Organization | Date Issued | Proof |
