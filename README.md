@@ -19,6 +19,15 @@ This section contains detailed breakdowns of my recent job simulation experience
 8.  [Tata - Data Visualisation](#tata---data-visualisation)
 
 ---
+### IBM SkillsBuild - From Learner to Builder: Become an AI Agent Architect
+* **Organization:** IBM SkillsBuild
+* **Issued:** July, 2025
+* **Proof:** [View Certificate](ibm From Learner to Builder Become an AI Agent certifate.jpg)
+<a href="ibm From Learner to Builder Become an AI Agent certifate.jpg">
+  <img src="ibm From Learner to Builder Become an AI Agent certifate.jpg" alt="J.P. Morgan Quantitative Research Certificate" width="500">
+</a>
+
+---
 
 ### J.P. Morgan - Quantitative Research
 * **Organization:** J.P. Morgan / Forage
@@ -152,16 +161,6 @@ This section contains detailed breakdowns of my recent job simulation experience
 * **Organization:** Data Flair
 * **Issued:** January, 2025
 * **Proof:** [View Certificate](Deep%20Learning.jpg)
-* **Key Skills:** Generative AI, Exploratory Data Analysis (EDA), Predictive Modeling, AI Strategy, Ethical AI
-
-<details>
-<summary>View Tasks & Accomplishments</summary>
-
-1.  **Utilized** GenAI tools for exploratory data analysis (EDA) to assess data quality and identify risk indicators.
-2.  **Proposed** a no-code predictive modeling framework to assess customer delinquency risk, using GenAI for model logic.
-3.  **Designed** an AI-driven collections strategy incorporating agentic AI, automation, and ethical AI principles.
-
-</details>
 
 <a href="Deep Learning.jpg">
   <img src="Deep Learning.jpg" alt="Tata GenAI Powered Data Analytics Certificate" width="500">
