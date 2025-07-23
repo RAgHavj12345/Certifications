@@ -315,6 +315,17 @@ This section contains detailed breakdowns of my completed programs and credentia
 
 ---
 
+### Google Developer Student Clubs - Cloud Computing and Devops A to Z
+* **Organization:** Google Developer Student Clubs/DevTown
+* **Issued:** July, 2024
+* **Proof:** [View Certificate](cloud%20comp%20google.jpg)
+* **Key Skills:** AI Agents, Generative AI, LLMs, System Architecture
+
+<a href="cloud comp google.jpg">
+  <img src="cloud comp google.jpg" alt="IBM AI Agent Architect Certificate" width="500">
+</a>
+---
+
 
 ### Data Flair - Introduction to Python
 * **Organization:** Data Flair
