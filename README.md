@@ -37,6 +37,17 @@ This repository contains my professional certifications and credentials.
 </a>
 
 ---
+---
+
+* **Program:** Data Science Job Simulation
+* **Organization:** BCG X / Forage
+* **Issued:** June 20th, 2025
+
+<a href="forage-bcg-cert.jpg">
+  <img src="forage-bcg-cert.jpg" alt="BCG X Data Science Certificate" width="500">
+</a>
+
+---
 
 ### My Credentials in Tabular Form
 
