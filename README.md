@@ -253,8 +253,6 @@ This section contains detailed breakdowns of my completed programs and credentia
 * **Organization:** Google Developer Student Clubs/DevTown
 * **Issued:** August, 2024
 * **Proof:** [View Certificate](Py&Ai.jpg)
-* **Key Skills:** AI Agents, Generative AI, LLMs, System Architecture
-
 <a href="Py%26Ai.jpg">
   <img src="Py%26Ai.jpg" alt="IBM AI Agent Architect Certificate" width="500">
 </a>
@@ -303,29 +301,28 @@ This section contains detailed breakdowns of my completed programs and credentia
 
 ---
 
+
+### Google Developer Student Clubs - Cloud Computing and Devops A to Z
+* **Organization:** Google Developer Student Clubs/DevTown
+* **Issued:** July, 2024
+* **Proof:** [View Certificate](cloud%20comp%20google.jpg)
+
+<a href="cloud comp google.jpg">
+  <img src="cloud comp google.jpg" alt="IBM AI Agent Architect Certificate" width="500">
+</a>
+
+---
+
 ### DevTown - Bootcamp on Cloud Computing and DevOps A to Z
 * **Organization:** DevTown
 * **Issued:** July, 2024
 * **Proof:** [View Certificate](cloudcom.jpg)
-* **Key Skills:** AI Agents, Generative AI, LLMs, System Architecture
 
 <a href="cloudcom.jpg">
   <img src="cloudcom.jpg" alt="IBM AI Agent Architect Certificate" width="500">
 </a>
 
 ---
-
-### Google Developer Student Clubs - Cloud Computing and Devops A to Z
-* **Organization:** Google Developer Student Clubs/DevTown
-* **Issued:** July, 2024
-* **Proof:** [View Certificate](cloud%20comp%20google.jpg)
-* **Key Skills:** AI Agents, Generative AI, LLMs, System Architecture
-
-<a href="cloud comp google.jpg">
-  <img src="cloud comp google.jpg" alt="IBM AI Agent Architect Certificate" width="500">
-</a>
----
-
 
 ### Data Flair - Introduction to Python
 * **Organization:** Data Flair
