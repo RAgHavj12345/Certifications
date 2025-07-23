@@ -24,7 +24,7 @@ In this simulation, I completed the following tasks:
 1.  **Completed** a simulation focused on quantitative research methods 
 2.  **Analyzed** a book of loans to estimate a customer's probability of default
 3.  **Used** dynamic programming to convert FICO scores into categorical data to predict defaults
-4.  
+ 
 ---
 
 ### Lloyds Banking Group - Data Science Simulation
