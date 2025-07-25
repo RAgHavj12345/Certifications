@@ -32,7 +32,31 @@ This section contains detailed breakdowns of my completed programs and credentia
 21. [Data Flair - Introduction to Python](#data-flair---introduction-to-python)
 
 ---
+### IBM SkillsBuild - Journey to Cloud: Envisioning Your Solution
+* **Organization:** IBM SkillsBuild
+* **Issued:** July, 2025
+* **Proof:** [View Certificate](Journey_to_Cloudcredly.jpg)
 
+
+
+<a href="Journey_to_Cloudcredly.jpg">
+  <img src="Journey_to_Cloudcredly.jpg" width="500">
+</a>
+
+---
+
+### IBM SkillsBuild - Lab: Retrieval Augmented Generation with LangChain
+* **Organization:** IBM SkillsBuild
+* **Issued:** July, 2025
+* **Proof:** [View Certificate](certificate_lab retrevial_page.jpg)
+
+
+
+<a href="certificate_lab retrevial_page.jpg">
+  <img src="certificate_lab retrevial_page.jpg" alt="IBM AI Agent Architect Certificate" width="500">
+</a>
+
+---
 ### IBM SkillsBuild - AI Agent Architect
 * **Organization:** IBM SkillsBuild
 * **Issued:** July, 2025
@@ -52,7 +76,7 @@ This section contains detailed breakdowns of my completed programs and credentia
 
 ---
 
-### IBM SkillsBuild - AGetting Started with Artificial Intelligence
+### IBM SkillsBuild - Getting Started with Artificial Intelligence
 * **Organization:** IBM SkillsBuild
 * **Issued:** July, 2025
 * **Proof:** [View Certificate](getting_started_ai_credly_page-0001.jpg)
