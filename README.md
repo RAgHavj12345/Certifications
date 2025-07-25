@@ -1,12 +1,15 @@
 # 🎓 Professional Certifications & Job Simulations
+
 A showcase of my professional development, hands-on project experience, and technical credentials.
 
 ---
 
 ## ✨ Featured Certifications & Simulations
+
 This section contains detailed breakdowns of my completed programs and credentials, ordered from most recent to oldest.
 
 ### Table of Contents
+
 1. [IBM SkillsBuild - AI Agent Architect](#ibm-skillsbuild---ai-agent-architect)
 2. [J.P. Morgan - Quantitative Research](#jp-morgan---quantitative-research)
 3. [Lloyds Banking Group - Data Science](#lloyds-banking-group---data-science-simulation)
@@ -31,19 +34,13 @@ This section contains detailed breakdowns of my completed programs and credentia
 
 ---
 
-### IBM SkillsBuild - AI Agent Architect
+### IBM SkillsBuild - Journey to Cloud: Envisioning Your Solution
 * **Organization:** IBM SkillsBuild
 * **Issued:** July, 2025
 * **Proof:** [View Certificate](Journey_to_Cloudcredly.jpg)
-* **Key Skills:** AI Agents, Generative AI, LLMs, System Architecture
-
-<details>
-<summary>View Details</summary>
-Completed a program on designing and building AI agents, focusing on the transition from foundational knowledge to practical application and architectural design.
-</details>
 
 <a href="Journey_to_Cloudcredly.jpg">
-  <img src="Journey_to_Cloudcredly.jpg" alt="AI Agent Architect Certificate" width="500">
+  <img src="Journey_to_Cloudcredly.jpg" width="500">
 </a>
 
 ---
@@ -52,15 +49,37 @@ Completed a program on designing and building AI agents, focusing on the transit
 * **Organization:** IBM SkillsBuild
 * **Issued:** July, 2025
 * **Proof:** [View Certificate](certificate_lab_retrevial_page.jpg)
-* **Key Skills:** LangChain, AI Retrieval, Generative AI
-
-<details>
-<summary>View Details</summary>
-A hands-on lab to implement Retrieval Augmented Generation (RAG) models using LangChain.
-</details>
 
 <a href="certificate_lab_retrevial_page.jpg">
-  <img src="certificate_lab_retrevial_page.jpg" alt="LangChain Certificate" width="500">
+  <img src="certificate_lab_retrevial_page.jpg" alt="IBM AI Agent Architect Certificate" width="500">
+</a>
+
+---
+
+### IBM SkillsBuild - AI Agent Architect
+* **Organization:** IBM SkillsBuild
+* **Issued:** July, 2025
+* **Proof:** [View Certificate](ibm%20From%20Learner%20to%20Builder%20Become%20an%20AI%20Agent%20certifate.jpg)
+* **Key Skills:** AI Agents, Generative AI, LLMs, System Architecture
+
+<details>
+  <summary>View Details</summary>
+  - Completed a program on designing and building AI agents, focusing on the transition from foundational knowledge to practical application and architectural design.
+</details>
+
+<a href="ibm%20From%20Learner%20to%20Builder%20Become%20an%20AI%20Agent%20certifate.jpg">
+  <img src="ibm%20From%20Learner%20to%20Builder%20Become%20an%20AI%20Agent%20certifate.jpg" alt="IBM AI Agent Architect Certificate" width="500">
+</a>
+
+---
+
+### IBM SkillsBuild - Getting Started with Artificial Intelligence
+* **Organization:** IBM SkillsBuild
+* **Issued:** July, 2025
+* **Proof:** [View Certificate](getting_started_ai_credly_page-0001.jpg)
+
+<a href="getting_started_ai_credly_page-0001.jpg">
+  <img src="getting_started_ai_credly_page-0001.jpg" alt="IBM AI Agent Architect Certificate" width="500">
 </a>
 
 ---
@@ -72,10 +91,10 @@ A hands-on lab to implement Retrieval Augmented Generation (RAG) models using La
 * **Key Skills:** Quantitative Analysis, Probability Modeling, Dynamic Programming, Python
 
 <details>
-<summary>View Tasks & Accomplishments</summary>
-1. Analyzed a diverse loan portfolio to engineer features and estimate a customer's probability of default.
-2. Applied dynamic programming techniques to convert FICO scores into categorical data for robust predictive modeling.
-3. Developed a quantitative model to assess credit risk and inform future lending strategies.
+  <summary>View Tasks & Accomplishments</summary>
+  1. **Analyzed** a diverse loan portfolio to engineer features and estimate a customer's probability of default.
+  2. **Applied** dynamic programming techniques to convert FICO scores into categorical data for robust predictive modeling.
+  3. **Developed** a quantitative model to assess credit risk and inform future lending strategies.
 </details>
 
 <a href="forage-jpmorgan-certi.jpg">
@@ -88,13 +107,14 @@ A hands-on lab to implement Retrieval Augmented Generation (RAG) models using La
 * **Organization:** Lloyds Banking Group / Forage
 * **Issued:** June, 2025
 * **Proof:** [View Certificate](forage-lloyds-cert.jpg)
-* **Key Skills:** Machine Learning, Predictive Modeling, Hyperparameter Tuning
+* **Key Skills:** Machine Learning, Predictive Modeling, Python (Pandas, Scikit-learn), Hyperparameter Tuning
 
 <details>
-<summary>View Tasks & Accomplishments</summary>
-1. Engineered a predictive model to identify customer churn, achieving an **ROC-AUC score of 0.82** using a Random Forest classifier.
-2. Executed advanced data preprocessing, including handling missing values, encoding categorical variables, and feature scaling.
-3. Performed model evaluation and hyperparameter tuning using **GridSearchCV** to optimize performance.
+  <summary>View Tasks & Accomplishments</summary>
+  1. **Engineered** a predictive model to identify customer churn, achieving an **ROC-AUC score of 0.82** using a Random Forest classifier.
+  2. **Executed** advanced data preprocessing, including handling missing values, encoding categorical variables, and feature scaling.
+  3. **Performed** comprehensive model evaluation and hyperparameter tuning with **GridSearchCV** to optimize performance.
+  4. **Derived** actionable business insights from **feature importance analysis** to inform customer retention strategies.
 </details>
 
 <a href="forage-lloyds-cert.jpg">
@@ -107,13 +127,14 @@ A hands-on lab to implement Retrieval Augmented Generation (RAG) models using La
 * **Organization:** BCG X / Forage
 * **Issued:** June, 2025
 * **Proof:** [View Certificate](forage-bcg-cert.jpg)
-* **Key Skills:** Data Analysis, Customer Segmentation, Python, Data Visualization
+* **Key Skills:** Data Analysis, Customer Segmentation, Python (Pandas, NumPy), Data Visualization
 
 <details>
-<summary>View Tasks & Accomplishments</summary>
-1. Engineered and optimized a Random Forest model, achieving a **50% recall rate** in predicting customer churn.
-2. Conducted in-depth data analysis and feature engineering using **Pandas** and **NumPy**.
-3. Developed insightful data visualizations to interpret trends and present findings effectively.
+  <summary>View Tasks & Accomplishments</summary>
+  1. **Engineered** and optimized a Random Forest model, achieving a **50% recall rate** in predicting customer churn.
+  2. **Conducted** in-depth data analysis and feature engineering using **Pandas** and **NumPy**.
+  3. **Developed** insightful data visualizations to interpret trends and present findings effectively.
+  4. **Authored** a concise executive summary, translating complex analytical results into actionable recommendations.
 </details>
 
 <a href="forage-bcg-cert.jpg">
@@ -122,35 +143,37 @@ A hands-on lab to implement Retrieval Augmented Generation (RAG) models using La
 
 ---
 
-### 📚 All Certifications (Tabular View)
+### Quantium - Data Analytics
+* **Organization:** Quantium / Forage
+* **Issued:** June, 2025
+* **Proof:** [View Certificate](forage-quantinum-cert.jpg)
+* **Key Skills:** Commercial Analytics, Customer Segmentation, A/B Testing, Data-driven Strategy
 
-| Certificate / Simulation | Issuing Organization | Date Issued |
-|-------------------------|----------------------|-------------|
-| **AI Agent Architect**   | IBM SkillsBuild      | July, 2025  |
-| **Quantitative Research**| J.P. Morgan / Forage | June, 2025  |
-| **Data Science Simulation**| Lloyds Banking Group / Forage | June, 2025 |
-| **Data Science Simulation**| BCG X / Forage | June, 2025 |
-| **Data Analytics Simulation**| Quantium / Forage | June, 2025 |
-| **Data Analytics Simulation**| Deloitte / Forage | June, 2025 |
-| **GenAI Powered Data Analytics**| Tata / Forage | June, 2025 |
-| **Introduction to DSA using C++**| Data Flair | April, 2025 |
-| **Introduction to Django**| Data Flair | February, 2025 |
-| **Introduction to Deep Learning**| Data Flair | January, 2025 |
-| **CODETREK Hackathon**| HASHTAG Society | January, 2025 |
-| **Python and AI**| Google Developer Student Clubs | August, 2024 |
-| **Microsoft Learn Student Ambassador**| Microsoft Learn | August, 2024 |
-| **Python and AI**| AWS Community Builders | August, 2024 |
-| **Certificate of Appreciation**| DevTown | August, 2024 |
-| **Cybersecurity Analyst**| Tata / Forage | July, 2024 |
-| **Data Visualisation**| Tata / Forage | July, 2024 |
-| **Python and AI**| DevTown | July, 2024 |
-| **Cloud Computing & DevOps**| Google Developer Student Clubs | July, 2024 |
-| **Cloud Computing & DevOps Bootcamp**| DevTown | July, 2024 |
-| **Introduction to Python**| Data Flair | April, 2024 |
+<details>
+  <summary>View Tasks & Accomplishments</summary>
+  1. **Analyzed** large-scale transaction datasets to prepare data and derive customer insights.
+  2. **Identified** and validated benchmark stores to measure performance and conduct uplift testing.
+  3. **Synthesized** analytical findings into comprehensive reports for category managers.
+</details>
+
+<a href="forage-quantinum-cert.jpg">
+  <img src="forage-quantinum-cert.jpg" alt="Quantium Data Analytics Certificate" width="500">
+</a>
 
 ---
 
-### **Notes for Enhancement**
-- Add **CSS styling** (if using on a website) to control the layout and spacing of images for uniformity.
-- Use collapsible sections for detailed tasks and accomplishments.
-- Ensure links are accessible with alt-text for users
+### Deloitte - Data Analytics
+* **Organization:** Deloitte Australia / Forage
+* **Issued:** June, 2025
+* **Proof:** [View Certificate](forage-deill-certi.jpg)
+* **Key Skills:** Data Dashboards, Data Classification, Forensic Technology, Tableau, Excel
+
+<details>
+  <summary>View Tasks & Accomplishments</summary>
+  1. **Investigated** business scenarios using data analysis and forensic technology principles.
+  2. **Designed** and built an interactive data dashboard using **Tableau** to visualize key metrics.
+  3. **Leveraged** advanced Excel functions for data classification and business conclusions.
+</details>
+
+<a href="forage-deill-certi.jpg">
+  <img src="forage-de
