@@ -52,6 +52,19 @@ This section contains detailed breakdowns of my completed programs and credentia
 
 ---
 
+### IBM SkillsBuild - AGetting Started with Artificial Intelligence
+* **Organization:** IBM SkillsBuild
+* **Issued:** July, 2025
+* **Proof:** [View Certificate](getting_started_ai_credly_page-0001.jpg)
+
+
+
+<a href="getting_started_ai_credly_page-0001.jpg">
+  <img src="getting_started_ai_credly_page-0001.jpg" alt="IBM AI Agent Architect Certificate" width="500">
+</a>
+
+---
+
 ### J.P. Morgan - Quantitative Research
 * **Organization:** J.P. Morgan / Forage
 * **Issued:** June, 2025
